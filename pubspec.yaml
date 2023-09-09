@@ -77,8 +77,8 @@ flutter:
   fonts:
     - family: Cera-Pro
       fonts:
-        - assets: fonts/Cera-Pro-Bold.otf
-        - assets: fonts/Cera-Pro-Medium.otf
+      - asset: assets/fonts/Cera-Pro-Bold.otf
+      - asset: assets/fonts/Cera-Pro-Medium.otf
   #         style: italic
   #   - family: Trajan Pro
   #     fonts:
